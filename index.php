@@ -8,3 +8,4 @@
       echo "<h1>Ciao php</h1>";
     ?>
   </body>
+</html>
